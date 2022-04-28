@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Sujan",
+        "password": "Sujan@123",
+        "age": 25,
+        "phone number": "8970240211",
+        "order history": {
+            "04-28-2022": [
+                "Dosa"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Bhaskar",
+        "password": "Bhaskar@123",
+        "age": 25,
+        "phone number": "0923456789",
+        "order history": {}
+    },
+    {
+        "id": 3,
+        "name": "Nagendra",
+        "password": "Nagendra@123",
+        "age": 25,
+        "phone number": 9067432178,
+        "order history": {}
+    }
+]
